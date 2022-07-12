@@ -1,9 +1,12 @@
 # Site settings
 title: Great New Blog Title
 author:
-  name: Giuseppe
-  email: your-email@domain.com
+name: Giuseppe
+email: your-email@domain.com
 description: "Test website to try Jekyll on GH-Pages."
+# twitter_username: 
+# linkedin_username:
+# github_username: 
 
 # Build settings
 remote_theme: jekyll/minima
