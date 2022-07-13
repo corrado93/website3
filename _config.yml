@@ -1,11 +1,11 @@
 # Site settings
-title: Great New Blog Title
-author:
+title: Title of this page
+author: Author_name
 name: Giuseppe
 email: your-email@domain.com
 description: "Test website to try Jekyll on GH-Pages."
-# twitter_username: 
-# linkedin_username:
+twitter_username: twitter_name 
+linkedin_username: giuseppe-corrado-6563a812b
 # github_username: 
 
 # Build settings
